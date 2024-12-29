@@ -1,5 +1,65 @@
 # 💫 About Me:
-<br>About Me 👋<br><br>With 8+ years of experience in software development, I am a seasoned Full-Stack Developer and <br>an expert in Generative AI integration for business use cases. I specialize in leading cross-functional teams to deliver scalable, <br>user-centric solutions while leveraging cutting-edge technologies to drive innovation and business growth.<br><br>What I'm Working On 🚀<br><br>    Greelance:<br>                    Leading a team of 8–10 developers to build a cutting-edge freelance marketplace. <br>Greelance is currently serving thousands of users with seamless functionality powered by robust backend systems, dynamic frontends, and AI-enhanced features.<br><br>    Toomboo AI:<br>                     Overseeing a team of 8–10 developers to create an innovative app that provides tailored user experiences, <br>such as personalized restaurant recommendations or travel planning. This app integrates backend development, <br>AI-driven insights, and intuitive app design to deliver exceptional user satisfaction.<br><br>    Email Verification SaaS:<br>                      Building a robust platform to help users clean email lists and enhance email deliverability,<br> ensuring higher engagement rates and optimized email campaigns.<br>    <br>   Crypto Analysis & AI Recommendation Platform:<br>                       Developing an intelligent platform that combines crypto market analysis with AI-powered recommendations,<br> providing actionable insights for investors and enthusiasts.<br>     <br>What I'm Learning 📚<br><br>    Generative AI Applications:<br>    Exploring advanced Gen AI techniques to tackle novel business challenges, focusing on creating AI-powered solutions tailored to real-world needs.<br><br>    Golang for Backend Development:<br>    Enhancing my backend expertise to build efficient, scalable, and high-performance systems using Golang.<br><br>Expertise 💡<br><br>    Full-Stack Development: Proficient in Python, Django, FastAPI, JavaScript, TypeScript, and React.<br><br>    AI Integration: Implementing Generative AI to solve business challenges and create transformative user experiences.<br>   <br>    Cloud & DevOps: Deep experience with AWS for deploying, scaling, and managing applications.<br>  <br>    Team Leadership: Proven ability to lead 8–10 developer teams, delivering high-quality products under tight deadlines.<br>   <br>    Product Development: Expertise in crafting SaaS MVPs and full-fledged enterprise solutions, from ideation to delivery.<br><br>Development Methodologies & Principles ⚙️<br><br>    Champion of agile methodologies for efficient, iterative development and team collaboration.<br>    Advocate for clean, maintainable code and scalable system architectures.<br>    A strong believer in user-first design and data-driven decisions to create impactful products.
+With 8+ years of experience in software development, I am a seasoned Full-Stack Developer and 
+an expert in Generative AI integration for business use cases. I specialize in leading cross-functional teams to deliver scalable, user-centric solutions 
+while leveraging cutting-edge technologies to drive innovation and business growth.
+
+## What I'm Working On 🚀
+
+### Greelance:
+
+  Leading a team of 8–10 developers to build a cutting-edge freelance marketplace. Greelance is currently serving thousands of users with seamless functionality 
+  powered by robust backend systems, dynamic frontends, and AI-enhanced features.    
+  
+### Toomboo AI:                   
+
+  Overseeing a team of 8–10 developers to create an innovative app that provides tailored user experiences, <br>such as personalized restaurant recommendations or travel planning. 
+  This app integrates backend development, AI-driven insights, and intuitive app design to deliver exceptional user satisfaction.   
+  
+### Email Verification SaaS:                      
+
+  Building a robust platform to help users clean email lists and enhance email deliverability, ensuring higher engagement rates and optimized email campaigns.   
+  
+### Crypto Analysis & AI Recommendation Platform:
+
+  Developing an intelligent platform that combines crypto market analysis with AI-powered recommendations, providing actionable insights for investors and enthusiasts.
+  
+## What I'm Learning 📚    
+
+### Generative AI Applications:   
+  Exploring advanced Gen AI techniques to tackle novel business challenges, focusing on creating AI-powered solutions tailored to real-world needs.
+  
+### Golang for Backend Development:    
+  Enhancing my backend expertise to build efficient, scalable, and high-performance systems using Golang.<br><br>
+  
+## Expertise 💡
+
+### Full-Stack Development: 
+
+  Proficient in Python, Django, FastAPI, JavaScript, TypeScript, and React.    
+  
+### AI Integration: 
+
+  Implementing Generative AI to solve business challenges and create transformative user experiences.   
+  
+### Cloud & DevOps: 
+
+  Deep experience with AWS for deploying, scaling, and managing applications. 
+  
+### Team Leadership: 
+
+  Proven ability to lead 8–10 developer teams, delivering high-quality products under tight deadlines.    
+  
+### Product Development: 
+
+  Expertise in crafting SaaS MVPs and full-fledged enterprise solutions, from ideation to delivery.
+
+## Development Methodologies & Principles ⚙️
+
+  Champion of agile methodologies for efficient, iterative development and team collaboration.
+  
+  Advocate for clean, maintainable code and scalable system architectures.    
+  
+  A strong believer in user-first design and data-driven decisions to create impactful products.
 
 
 ## 🌐 Socials:
