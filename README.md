@@ -1,80 +1,94 @@
-# 💫 About Me:
-With 8+ years of experience in software development, I am a seasoned Full-Stack Developer and 
-an expert in Generative AI integration for business use cases. I specialize in leading cross-functional teams to deliver scalable, user-centric solutions 
-while leveraging cutting-edge technologies to drive innovation and business growth.
+# Hi, I'm Sikandar 👋
 
-## What I'm Working On 🚀
+**Senior Full-Stack Engineer · 9 years building production software**
 
-### Greelance:
+I build data-heavy, AI-powered platforms that ship and hold up in production — real-estate and fintech systems, automation and scraping pipelines, and SaaS products taken from idea to launch. I work the hard, logic-heavy parts most developers avoid: exact financial calculations, scraping that survives, clean data pipelines, and AI/LLM features that do real work, not demos.
 
-  Leading a team of 8–10 developers to build a cutting-edge freelance marketplace. Greelance is currently serving thousands of users with seamless functionality 
-  powered by robust backend systems, dynamic frontends, and AI-enhanced features.    
-  
-### Toomboo AI:                   
+Top Rated Plus on Upwork · 100% Job Success · live products with 5-star reviews.
 
-  Overseeing a team of 8–10 developers to create an innovative app that provides tailored user experiences, <br>such as personalized restaurant recommendations or travel planning. 
-  This app integrates backend development, AI-driven insights, and intuitive app design to deliver exceptional user satisfaction.   
-  
-### Email Verification SaaS:                      
-
-  Building a robust platform to help users clean email lists and enhance email deliverability, ensuring higher engagement rates and optimized email campaigns.   
-  
-### Crypto Analysis & AI Recommendation Platform:
-
-  Developing an intelligent platform that combines crypto market analysis with AI-powered recommendations, providing actionable insights for investors and enthusiasts.
-  
-## What I'm Learning 📚    
-
-### Generative AI Applications:   
-  Exploring advanced Gen AI techniques to tackle novel business challenges, focusing on creating AI-powered solutions tailored to real-world needs.
-  
-### Golang for Backend Development:    
-  Enhancing my backend expertise to build efficient, scalable, and high-performance systems using Golang.<br><br>
-  
-## Expertise 💡
-
-### Full-Stack Development: 
-
-  Proficient in Python, Django, FastAPI, JavaScript, TypeScript, and React.    
-  
-### AI Integration: 
-
-  Implementing Generative AI to solve business challenges and create transformative user experiences.   
-  
-### Cloud & DevOps: 
-
-  Deep experience with AWS for deploying, scaling, and managing applications. 
-  
-### Team Leadership: 
-
-  Proven ability to lead 8–10 developer teams, delivering high-quality products under tight deadlines.    
-  
-### Product Development: 
-
-  Expertise in crafting SaaS MVPs and full-fledged enterprise solutions, from ideation to delivery.
-
-## Development Methodologies & Principles ⚙️
-
-  Champion of agile methodologies for efficient, iterative development and team collaboration.
-  
-  Advocate for clean, maintainable code and scalable system architectures.    
-  
-  A strong believer in user-first design and data-driven decisions to create impactful products.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sikandarjavid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sikandar_javid) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sikandarjavid1&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sikandarjavid1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sikandarjavid1&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I both **build deeply hands-on** for founders and **lead engineering teams** (8–10 developers) on larger products — so I can take something from a blank repo to a shipped, scalable system, solo or at the head of a team.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sikandarjavid1&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🧭 What I Focus On
+
+**Real-estate & fintech platforms** — proptech is my home turf: lending, underwriting, investor accounting, property data, and the systems founders in this space actually need. I pair that domain depth with:
+
+- **Financial-grade correctness** — decimal-only money math, append-only ledgers, idempotent posting, audit trails. When the numbers have to be exact, they are.
+- **Resilient data pipelines & scraping** — collection that survives anti-bot systems, rate limits, and HTML drift, with retries and monitoring so it never silently dies.
+- **AI that earns its place** — a rules-first / AI-second cascade: deterministic code for what's knowable, AI only for genuine judgment (classify, score, summarize, extract).
+- **Self-hosted / local LLMs in production** — not just API calls. Phi-3 (llama.cpp, grammar-constrained JSON) and Qwen (Ollama) deployed for cost control and data privacy at volume.
+
+---
+
+## 🛠️ Selected work
+
+**Private real-estate lending platform** — end-to-end origination → servicing with multi-investor accounting, a structured payment waterfall, decimal-exact money math, and an append-only audit ledger. *(Python · FastAPI · PostgreSQL)*
+
+**Property-transparency platform** *(live, 5-star)* — consumer web app with map-based search, an OCR document pipeline, and community uploads. *(Next.js · FastAPI · PostgreSQL)*
+
+**Multifamily underwriting / cap-rate platform** — nightly resilient scraping + Google Vision (image classification) + GPT (extracting unit data from descriptions) feeding a region-aware cap-rate engine, with QC flagging. *(Python · FastAPI · Celery/Redis)*
+
+**Startup-intelligence engine** *(live, in commercial use, 5-star)* — scrapes and AI-scores companies from messy free-text into a clean, queryable database. *(Python · FastAPI · PostgreSQL)*
+
+**Event- & championship-intelligence platforms** — two-stage and five-stage pipelines using **local LLMs** (Phi-3 / Qwen) for extraction, with a false-positive-proof detection algorithm and CRM sync. *(FastAPI · React · MongoDB/PostgreSQL · llama.cpp/Ollama)*
+
+**Health-assessment SaaS** *(live, 5-star)* — configurable, admin-tunable scoring engine with booking and a secured admin dashboard. *(Next.js · FastAPI · PostgreSQL)*
+
+> Leading 8–10 developer teams on larger product builds (freelance marketplace + AI recommendation app) over the past ~2 years, alongside hands-on solo delivery for founders.
+
+---
+
+## 🤖 AI & LLM Engineering
+
+Most developers can call an API. I design AI into production systems so it's **reliable, affordable, and isolated** — and when hosted models don't fit, I run open-source models myself.
+
+### Hosted LLM integration (OpenAI / Claude)
+- Production use for classification, extraction, scoring, summarizing, and drafting across data-heavy platforms.
+- Built for reliability, not demos: strict input validation before the call, **structured / constrained output** so responses are always machine-parseable, plus retries and fallbacks on bad responses.
+- Every model call sits behind a **clean adapter interface** — the system asks to "run this task," not "call this specific model" — so swapping or upgrading a model is a config change, not a rewrite.
+
+### Self-hosted / local LLMs in production
+The part most freelancers can't offer. When data volume makes hosted APIs too expensive, or data is sensitive, I deploy open-source models on my own infrastructure:
+- **Phi-3 via llama.cpp** with **grammar-constrained decoding** — the model is forced to emit only valid, schema-correct JSON, so downstream code can trust every response (no brittle text-parsing of LLM output).
+- **Qwen via Ollama** on GPU instances for hybrid extraction workloads, orchestrated programmatically with monitoring.
+- Driven by real constraints: **cost at volume** (most records never need a frontier model) and **data privacy** (sensitive data never leaves the box).
+
+### The rules-first / AI-second cascade
+A core pattern in how I build: rules attempt everything first; AI catches only what they can't.
+- Deterministic code handles anything knowable directly from the data — fast, free, predictable.
+- Records that don't match the expected structure, or need genuine judgment, escalate to an LLM (local or hosted, depending on the trade-off).
+- Result: the large majority of work stays on cheap deterministic code, and AI cost is reserved for the genuinely hard cases.
+
+### Engineering judgment around AI
+- Knowing **when not to use AI** — wrong, slow, or expensive AI where a rule would do is a failure mode I design out.
+- Isolating AI so a prompt or model change can never corrupt deterministic logic (e.g. financial calculations stay rule-based and untouchable).
+- Validation guards and structured output so AI results are trustworthy enough to act on automatically.
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages:** Python · TypeScript · JavaScript · Go *(learning)* · PHP
+**Backend:** FastAPI · Django · DRF · Flask · Node patterns · Celery · Redis · RabbitMQ
+**Frontend:** Next.js · React · TypeScript · Tailwind · Redux
+**Data/DB:** PostgreSQL · MongoDB · MySQL · Elasticsearch · SQLAlchemy
+**AI/LLM:** OpenAI · Claude · local LLMs (Phi-3 via llama.cpp, Qwen via Ollama) · grammar-constrained decoding · pandas/NumPy
+**Scraping:** Playwright · Scrapy · Selenium/undetected-chromedriver · Zyte · proxy rotation
+**Cloud/DevOps:** AWS · Vercel · Render · DigitalOcean · Docker · Nginx · GitHub Actions · Cloudflare
+**Payments/Auth:** Stripe · Clerk · JWT
+
+---
+
+## 📈 What I'm doing now
+
+- Building production real-estate & fintech platforms for founders, solo and direct.
+- Going deeper on local/self-hosted LLM deployment and Go for high-performance backends.
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sikandarjavid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sikandar_javid)
+
+![](https://github-readme-stats.vercel.app/api?username=sikandarjavid1&theme=dark&hide_border=true&count_private=true)
